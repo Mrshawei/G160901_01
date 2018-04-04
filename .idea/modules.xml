@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/G160901_Activiti/G160901_Activiti.iml" filepath="$PROJECT_DIR$/G160901_Activiti/G160901_Activiti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/G160901_SSM/G160901_SSM.iml" filepath="$PROJECT_DIR$/G160901_SSM/G160901_SSM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MongoDb_02/MongoDb_02.iml" filepath="$PROJECT_DIR$/MongoDb_02/MongoDb_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyProject_01.iml" filepath="$PROJECT_DIR$/MyProject_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Redis_02/Redis_02.iml" filepath="$PROJECT_DIR$/Redis_02/Redis_02.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="G160901_Activiti" />
+        <module name="G160901_SSM" />
+        <module name="MongoDb_02" />
+        <module name="Redis_02" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="G160901_Activiti" target="1.5" />
+      <module name="G160901_SSM" target="1.5" />
+      <module name="MongoDb_02" target="1.5" />
+      <module name="Redis_02" target="1.5" />
+      <module name="Test" target="1.5" />
+      <module name="Test_01" target="1.5" />
+      <module name="Test_02" target="1.5" />
+      <module name="Test_1" target="1.5" />
+      <module name="Test_Activiti" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
