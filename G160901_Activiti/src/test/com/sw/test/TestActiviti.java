@@ -9,7 +9,6 @@ import org.activiti.engine.runtime.ProcessInstance;
 import org.activiti.engine.task.Task;
 import org.junit.Test;
 
-import java.security.interfaces.RSAPrivateCrtKey;
 import java.util.List;
 
 public class TestActiviti {
